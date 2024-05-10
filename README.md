@@ -7,4 +7,4 @@ This tool searches for tests that use `PushState::builder().<foo>().with_max_sta
 
 
 > [!WARNING]
-> Although I am fairly confident that this script won't break any code, it **does** modify code in your project. It is highly recommended to only run it after a comiit has been done and the current state is clean.
+> Although I am fairly confident that this script won't break any code, it **does** modify code in your project. It is highly recommended to only run it after a commit has been done and the current git state is clean.
