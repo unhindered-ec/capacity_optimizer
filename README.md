@@ -3,7 +3,7 @@
 This tool searches for tests that use `PushState::builder().<foo>().with_max_stack_size(<int_literal>)` and reduces the max size to the minimum value
 
 > [!CAUTION]
-> This tool is still very early in development and needs major refactors. The current script is a prototype, and the next task is a rewrite making it able to be understood.
+> This tool is still very early in development and needs major refactors. The current script is a prototype, and the next task is a rewrite making readable - it currenly is not at all.
 
 
 > [!WARNING]
